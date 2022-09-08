@@ -1,0 +1,26 @@
+.sign{
+    background-image: url(../../images/footer.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+   
+   &-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 102px;
+   }
+   &-title{
+      width: 415px;
+      max-width: 100%;
+      font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+letter-spacing: -2.14286px;
+color: #FFFFFF;
+padding-bottom: 122px;
+}
+&-image{
+    padding-bottom: 122px;
+}
+}
